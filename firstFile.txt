@@ -2,8 +2,8 @@
 2
 3
 4
-5 fff
-6 sss
+5
+6
 7 moon
 8 sun
 9 hi
