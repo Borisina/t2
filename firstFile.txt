@@ -4,7 +4,7 @@
 4
 5
 6
-7
-8
+7 moon
+8 sun
 9 hi
 10 hello
